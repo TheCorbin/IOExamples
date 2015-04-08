@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+<root>
+    <contact>
+        <firstName>John</firstName>
+            <parent>false
+        <price type="double" max ="50">5</price>
+    </contact>
+    
+    
+    
+</root>
